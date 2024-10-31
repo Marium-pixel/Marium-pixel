@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width <h1>Your Name</h1>
+    
+</header>, initial-scale=1.0">
+    <title>ArchVision</title>
+    <style>
+        body{
+            margin: 0;
+            font-family: aptos, sans-serif;
+        }
+        .navigation{
+            background-color: antiquewhite;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .navtitle{
+            color:black;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .navlinks{
+            display: flex;
+            justify-content: center;
+        }
+        .nav-links a{
+            color:blue;
+            text-decoration: none;
+            padding: 15px 20px;
+            transition: backgroud-color 0.3s, text-decoration 0.3s;
+        }
+        .nav-links a:hover{
+            background-color: azure;
+            text-decoration: underline;
+        }
+        @media (max-width: 600px){
+            .nav-links{
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+       <section id="about">
+        <h3>About Me</h3>
+        <p>Brief introduction about yourself.</p>
+    </section>
+
+    <section id="projects">
+        <h3>Projects</h3>
+        <p>Details about your projects.</p>
+    </section>
+
+    <section id="contact">
+        <h3>Contact</h3>
+        <p>Your contact information or a contact form.</p>
+    </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
