@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marium-pixel
 - 👀 I’m interested in game development and app creation
-- 🌱 I’m currently working with C programming language and plan on learning Java as well.
-- 💞️ I enjoy watching shows, and reading novels
+- 🌱 I’m currently working with C++ programming language.
+- 💞️ I enjoy watching shows, listening to good music and reading novels
 - 📫 You can reach out to me on email with: imranmarium742@gmail.com
 - 😄 Pronouns: she/her
   
